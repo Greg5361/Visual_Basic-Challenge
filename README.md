@@ -1,4 +1,5 @@
 # VBA Homework - The VBA of Wall Street
+<img src="./Images/Evaluation 2014.PNG">
 
 ## Background
 
